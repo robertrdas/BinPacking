@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1528825457 source:c:\users\rober\desktop\binpacking\population.cpp
+	"Population.h"
+
+1516745041 c:\users\rober\desktop\binpacking\population.h
+	<vector>
+	<algorithm>
+	<exception>
+	<stdexcept>
+
+1528831995 source:c:\users\rober\desktop\binpacking\api-usage.cpp
+	<iostream>
+	<algorithm>
+	"BRKGA.h"
+	"MTRand.h"
+	"SampleDecoder.h"
+	<ctime>
+
+1516745041 c:\users\rober\desktop\binpacking\brkga.h
+	<omp.h>
+	<algorithm>
+	<exception>
+	<stdexcept>
+	"Population.h"
+
+1516745041 c:\users\rober\desktop\binpacking\mtrand.h
+	<iostream>
+	<climits>
+	<cstdio>
+	<ctime>
+	<cmath>
+
+1528754490 c:\users\rober\desktop\binpacking\sampledecoder.h
+	<list>
+	<vector>
+	<algorithm>
+
+1528825580 source:c:\users\rober\desktop\binpacking\sampledecoder.cpp
+	"SampleDecoder.h"
+	<iostream>
+	<math.h>
+
